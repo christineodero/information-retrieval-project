@@ -1,5 +1,4 @@
 # information-retrieval-project
-This project focuses on building an information retrieval system to retrieve 10,000 documents from the University of Memphis website. Information retrieval involves the process of obtaining relevant information from a large collection of unstructured or semi-structured data.
 
 The project involves the following steps:
 Data Collection: Develop a web scraping or crawling mechanism to systematically navigate through the University of Memphis website and collect relevant documents. This may involve identifying specific web pages, extracting HTML content, and storing the retrieved documents.
